@@ -1,0 +1,26 @@
+from tkinter import*
+from PIL import ImageTk,Image
+from tkinter import messagebox
+import mysql.connector
+
+
+window=Tk()
+window.geomentry
+window.title
+window.config(bg= )
+window.iconbitmap
+
+
+Img=image.open(" ")
+Img=image.resize()
+pht=ImageTk.PhotoImage(Img)
+lb=Label(window,img=pht)
+lb.place(x= ,y= )
+
+
+lb1=Lable(window,text=" ",font=("Italic","bold",45),bg=" ", fg= " ")
+lb1=(x=" ",y=" ")
+
+
+frm=Frame(window, bg=" ")
+frm.grid(row=" ",column=" ",ipadx=" ", ipady=" ", padx=" ", pady=" ")
